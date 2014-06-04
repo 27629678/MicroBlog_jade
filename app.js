@@ -11,7 +11,11 @@ var users = require('./routes/users');
 var app = express();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+// dev m2
+>>>>>>> 7495614... dev m2
 // dev m1
 // master m1
 >>>>>>> fc6e863... dev m1
